@@ -1,0 +1,8 @@
+{
+    "go.goroot": "C:\\Users\\Administrator\\sdk\\go1.18.10",
+    "go.toolsGopath": "C:\\Users\\Administrator\\sdk\\go1.18.10-tools",
+    "go.toolsEnvVars": {
+      "GO111MODULE": "on",
+      "GOPROXY": "https://goproxy.cn,direct"
+    }
+}

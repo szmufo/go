@@ -1,4 +1,4 @@
-module app
+module snail-home.cn/go
 
 go 1.18
 
